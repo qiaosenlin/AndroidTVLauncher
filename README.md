@@ -14,7 +14,7 @@ This is the TV Launcher I modified with Skyworth Software team in 2020. It is de
 > * Desktop special function
 
 ### Effect Picture
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch3.png)
+![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch4.png)
 ![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch2.png)
 ![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch7.png)
 
