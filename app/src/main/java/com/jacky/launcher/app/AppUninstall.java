@@ -19,12 +19,7 @@ import com.jacky.launcher.util.Tools;
 
 import java.util.List;
 
-/**
- * 应用卸载类
- * @author jacky
- * @version 1.0
- * @since 2016.4.1
- */
+
 public class AppUninstall extends Activity implements View.OnClickListener {
 
     private ListView listView;

@@ -10,13 +10,7 @@ import com.bumptech.glide.Glide;
 import com.jacky.launcher.R;
 import com.jacky.launcher.detail.MediaModel;
 
-/**
- * ImageCard Presenter
- *
- * @author jacky
- * @version v1.0
- * @since 16/7/16
- */
+
 public class ImgCardPresenter extends Presenter {
 
     private Context mContext;

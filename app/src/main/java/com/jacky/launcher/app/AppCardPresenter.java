@@ -9,13 +9,7 @@ import android.widget.ImageView;
 
 import com.jacky.launcher.R;
 
-/**
- * ImageCard Presenter
- *
- * @author jacky
- * @version v1.0
- * @since 16/7/16
- */
+
 public class AppCardPresenter extends Presenter {
 
     private Context mContext;

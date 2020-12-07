@@ -26,11 +26,7 @@ import com.bumptech.glide.request.target.SimpleTarget;
 import com.bumptech.glide.request.target.Target;
 import com.jacky.launcher.video.VideoActivity;
 
-/**
- * @author jacky
- * @version v1.0
- * @since 16/8/28
- */
+
 public class MediaDetailsFragment extends DetailsFragment {
 
     private ArrayObjectAdapter mRowsAdapter;

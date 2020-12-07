@@ -5,11 +5,7 @@ import android.os.Bundle;
 
 import com.jacky.launcher.R;
 
-/**
- * @author jacky
- * @version v1.0
- * @since 16/8/28
- */
+
 public class MediaDetailsActivity extends Activity {
 
     public static final String MEDIA = "Media";
