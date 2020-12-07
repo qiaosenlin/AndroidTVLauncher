@@ -1,16 +1,9 @@
 
 # AndroidTVLauncher
 
-[中文文档](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/README-CN.md)
 
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/Cat/src/main/res/mipmap-xxhdpi/ic_launcher.jpg)
-
-[Download Apk](https://github.com/JackyAndroid/AndroidTVLauncher/releases)
-
-This is a tv launcher, include a leanback launcher(minSdkVersion 17).
-
-### Notice
-CatLauncher (Leanback style) function has been basically stable at present, the progress of the follow-up will follow up the official Leanback library
+### Summary
+This is the TV Launcher I modified with Skyworth Software team in 2020. It is developed in Java using Android TV. We modified the UI content and FocusView from the original Google Leanback Library. Added some movie and media information by third party application. Also Added support for specific control needs for TV users.
 
 ### Features
 > * Leanback style
@@ -23,15 +16,9 @@ CatLauncher (Leanback style) function has been basically stable at present, the 
 ### Effect Picture
 ![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch1.png)
 ![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch2.png)
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch3.png)
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch4.png)
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch5.png)
-![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch6.png)
 ![](https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/screenshots/design_sketch7.png)
 
 ### The next step to improve
-> * Follow up the official Leanback library new features
+- modified focus switching speed
+- add functions for TV users
 
-### License
-
-    License: GNU GPL v3.0
